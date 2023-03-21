@@ -16,8 +16,8 @@ This was tested with Ghost 5.39.0, and comes with no warranty. Make sure to have
 
 ## Usage
 
-The code requires you to export your website in Json from the administration panel / "Export your content".  You can
-then use the following options:
+The code requires you to export your website in Json from the administration panel / "Export your content".
+You can then use the following options:
 
 - `--json-export-file` (required): The path to your json export file. Note that you don't need to upload it from your
   server because it will be stored in the `content/data` folder of your ghost installation
